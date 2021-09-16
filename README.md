@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cricindian
+- 👋 Hi, I’m Santosh Nyamagoudar
 - 👀 I’m interested in sports and programming
-- 🌱 I’m currently learning and working on java, spring boot, junit, mockito , docker
+- 🌱 I’m currently working on java, spring boot, junit, mockito. Also have knowledge on PHP(4/5), React(2/5), Python(2/5) to some extent. 
 - 💞️ I’m looking to collaborate on above mentioned topics.
 - 📫 How to reach me ? [ByEmail](mailto:gitsantosh88@gmail.com)
 
